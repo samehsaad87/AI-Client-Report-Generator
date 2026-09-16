@@ -1,0 +1,29 @@
+# Client Report
+
+## Executive Summary  
+This report provides an update on the Downtown Office Renovation project for ABC Construction. Progress is steady with key milestones achieved, though a few risks require monitoring. Strategic decisions have been made to maintain schedule and budget.
+
+## Key Updates  
+- Structural framework completed  
+- Electrical and plumbing rough-ins underway  
+- Interior wall framing initiated  
+- Procurement of finishing materials on schedule  
+
+## Issues / Risks  
+- Potential delay in delivery of specialty glass panels  
+- Weather conditions may impact exterior work timeline  
+- Coordination required between subcontractors to avoid workflow conflicts  
+
+## Decisions  
+- Approved alternate supplier for specialty glass panels to mitigate delay risk  
+- Adjusted work schedule to prioritize interior tasks during adverse weather  
+
+## Action Items  
+- Confirm delivery schedule with new glass supplier by next week  
+- Coordinate revised subcontractor timelines with project manager  
+- Monitor weather forecasts and adjust on-site activities accordingly  
+
+## Next Steps  
+- Continue interior installations and inspections  
+- Prepare for exterior façade work beginning next month  
+- Schedule regular progress meetings to address evolving risks and decisions
